@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sch_email2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button">GO</string>
+    <string name="action_settings">Settings</string>
+    <string name="change_the_time_string">Change the time</string>
+    <string name="change_the_date_string">Change the date</string>
+    <string name="find_difference">Proceed >></string>
+</resources>
